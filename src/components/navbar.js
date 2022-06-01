@@ -1,11 +1,12 @@
-import react from "react"
-import { Navbar } from "react-bootstrap"
+import React from "react";
+// import { Link } from "react-router-dom"
 
 const Navbar = () => {
     return ( 
+        <div className="container" >
     <ul className="nav justify-content-center">
   <li className="nav-item">
-    <a className="nav-link active" href="#">About Me</a>
+  {/* <Link to="/about" className="nav-link">About Me</Link> */}
   </li>
   <li className="nav-item">
     <a className="nav-link" href="#">Projects</a>
@@ -17,7 +18,8 @@ const Navbar = () => {
     <a className="nav-link" href="#">Contact Me</a>
   </li>
 </ul>
+</div>
 )
 }
 
-export default Navbar
+export default Navbar;
