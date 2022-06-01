@@ -1,7 +1,7 @@
 import react from "react"
-import { navbar } from "react-bootstrap"
+import { Navbar } from "react-bootstrap"
 
-const navbar = () => {
+const Navbar = () => {
     return ( 
     <ul className="nav justify-content-center">
   <li className="nav-item">
@@ -20,4 +20,4 @@ const navbar = () => {
 )
 }
 
-export default navbar
+export default Navbar
