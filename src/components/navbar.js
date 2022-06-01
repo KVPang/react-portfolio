@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="container" >
     <ul className="nav justify-content-center">
   <li className="nav-item">
-  {/* <Link to="/about" className="nav-link">About Me</Link> */}
+  <Link className="nav-link" to="/">Home</Link>
   </li>
   <li className="nav-item">
     <Link className="nav-link" to="/about">About Me</Link>
