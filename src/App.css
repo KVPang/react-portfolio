@@ -92,6 +92,16 @@ body {
 }
 
 /* ABOUT ME */
+#aboutMe {
+position: relative;
+background: url("https://wallpaperaccess.com/full/221443.jpg") no-repeat;
+background-size: cover;
+background-position: center;
+height: 100vh;
+max-width: 100%;
+}
+
+
 #aboutMe h1 {
   color: white;
   font-family:'Shadows Into Light', cursive;
@@ -172,4 +182,12 @@ label {
   border-width: 2px;
   border-color: white;
   color: white;
+}
+
+/* FOOTER */
+.footer{
+  max-width: 100%;
+  padding: 40px !important;
+  height: auto;
+  font-family: arial;
 }
