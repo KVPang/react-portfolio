@@ -67,7 +67,7 @@ body {
 
 .header-wrapper {
   position: relative;
-  background: url("https://img.wallpapersafari.com/desktop/1920/1080/43/55/RsQUwn.jpg") no-repeat;
+  background: url("https://wallpaperaccess.com/full/221443.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -89,6 +89,7 @@ body {
 .main-info h1 {
   font-family: 'Shadows Into Light', cursive;
   font-size: 60px;
+  color: white;
 }
 
 /* ABOUT ME */
