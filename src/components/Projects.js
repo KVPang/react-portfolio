@@ -9,7 +9,7 @@ function Projects() {
           <div className="card-body img1">
             <h4 className="card-title">Assignment</h4>
             <p className="card-text">Description</p>
-            <a href=""  className="btn btn-primary"
+            <a href=""  className="expbtn btn-primary"
             target="_blank" rel="noopener noreferrer">Explore</a>
           </div>
         </div>
@@ -19,7 +19,7 @@ function Projects() {
           <div className="card-body img2">
             <h4 className="card-title">Project</h4>
             <p className="card-text">Description</p>
-            <a href=""  className="btn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
+            <a href=""  className="expbtn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@ function Projects() {
             <div className="card-body img3">
               <h4 className="card-title">Project</h4>
               <p className="card-text">Description</p>
-              <a href=""  className="btn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
+              <a href=""  className="expbtn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
             </div>
           </div>
         </div>     
@@ -40,7 +40,7 @@ function Projects() {
           <div className="card-body img4">
             <h4 className="card-title">Assignment</h4>
             <p className="card-text">Description</p>
-            <a href=""  className="btn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
+            <a href=""  className="expbtn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
             
           </div>
         </div>
@@ -50,7 +50,7 @@ function Projects() {
           <div className="card-body img5">
             <h4 className="card-title">Project</h4>
             <p className="card-text">Description</p>
-            <a href="" className="btn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
+            <a href="" className="expbtn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
           </div>
           </div>
         </div>
@@ -59,7 +59,7 @@ function Projects() {
           <div className="card-body img6">
             <h4 className="card-title">Project</h4>
             <p className="card-text">Description</p>
-            <a href="" className="btn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
+            <a href="" className="expbtn btn-primary" target="_blank" rel="noopener noreferrer">Explore</a>
           </div>
           </div>
         </div>

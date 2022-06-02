@@ -135,6 +135,15 @@ body {
   color: black;
 }
 
+.expbtn {
+  background-color: rgb(13, 150, 214);
+  padding: 6px;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
 /* CONTACT */
 form{
   display: flex;
