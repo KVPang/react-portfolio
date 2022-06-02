@@ -92,6 +92,20 @@ body {
 }
 
 /* ABOUT ME */
+#aboutMe h1 {
+  color: white;
+  font-family:'Shadows Into Light', cursive;
+}
+
+#about {
+  color: white;
+}
+
+#about p {
+  display: flex;
+  flex-direction: row;
+  line-height: 2;
+}
 
 /* PROJECTS */
 
