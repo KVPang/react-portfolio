@@ -16,8 +16,8 @@ SO THAT I can assess whether they're a good candidate for an open position
 ![image](./src/assets/images/screenshot(3).JPG)
 
 ## Links 
-- [GitHub]("https://github.com/KVPang/react-portfolio")
-- [Deployed](")
+- [GitHub](https://github.com/KVPang/react-portfolio)
+- [Deployed]()
 
 ## Contact
 GitHub: [KVPang](https://github.com/KVPang)
