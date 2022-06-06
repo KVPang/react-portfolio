@@ -1,17 +1,23 @@
 # My React Portfolio 
 
 ## Description
+This is my portfolio built with React and Bootstrap.
 
-## Table of Contents
-
-## Installation
-
-## Usage
+## User-Story
+```
+AS AN employer looking for candidates with experience building single-page applications
+I WANT to view a potential employee's deployed React portfolio of work samples
+SO THAT I can assess whether they're a good candidate for an open position
+```
 
 ## Mock-Ups
+![image](./src/assets/images/screenshot(1).JPG)
+![image](./src/assets/images/screenshot(2).JPG)
+![image](./src/assets/images/screenshot(3).JPG)
 
 ## Links 
-
-## License 
+- [GitHub]("https://github.com/KVPang/react-portfolio")
+- [Deployed](")
 
 ## Contact
+GitHub: [KVPang](https://github.com/KVPang)

@@ -124,7 +124,7 @@ max-width: 100%;
 #about p {
   display: flex;
   flex-direction: row;
-  line-height: 1.5;
+  line-height: 1.8;
   font-size: 20px;
   justify-content: center;
 }
@@ -231,7 +231,9 @@ label {
 /* RESUME */
 
 #resumeContent {
-  max-width: 80%;;
+  max-width: 80%;
+  justify-content: center;
+  align-items: center;
 }
 
 .resumePage h1 {
@@ -243,8 +245,9 @@ label {
   color: white;
   display: flex;
   flex-direction: row;
-  line-height: 2;
+  line-height: 1.5;
   font-size: 20px;
+  justify-content: center;
 }
 
 .btn-resume {
