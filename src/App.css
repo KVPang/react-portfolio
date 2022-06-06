@@ -124,8 +124,9 @@ max-width: 100%;
 #about p {
   display: flex;
   flex-direction: row;
-  line-height: 2;
+  line-height: 1.5;
   font-size: 20px;
+  justify-content: center;
 }
 
 /* PROJECTS */
