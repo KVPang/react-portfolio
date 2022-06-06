@@ -17,7 +17,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Links 
 - [GitHub](https://github.com/KVPang/react-portfolio)
-- [Deployed]()
+- [Deployed](https://kristina-p-portfolio.netlify.app/)
 
 ## Contact
 GitHub: [KVPang](https://github.com/KVPang)
