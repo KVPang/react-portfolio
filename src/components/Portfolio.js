@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Projects() {
+function Portfolio() {
     return (
         <div className="container" id="projectCards">
-        <h1>Projects</h1>
+        <h1>My Portfolio</h1>
         <div className="col-sm-6">
         <div className="card">
           <div className="card-body img1">
@@ -71,4 +71,4 @@ function Projects() {
       </div> 
   )
   }
-  export default Projects
+  export default Portfolio
