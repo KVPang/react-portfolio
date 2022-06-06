@@ -135,12 +135,6 @@ max-width: 100%;
   justify-content: center;
   display:inline-flex;
   position:relative;
-  /* top:0;
-  left:0;
-  right:0;
-  bottom:0; */
-  /* height:100vh; */
-  /* width: 900px; */
 }
 
 #projectCards h1 {
@@ -153,7 +147,44 @@ max-width: 100%;
 }
 
 .card-title, .card-text {
-  color: black;
+  color: white;
+  text-shadow: white;
+  font-weight: 200;
+}
+
+.card:hover {
+  filter:opacity(80);
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.img1 {
+background-image: url("https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/ab_multi-cloud-1030x438.jpg");
+}
+
+
+.img2 {
+  background-image: url("https://www.sheknows.com/wp-content/uploads/2020/06/best-post-it-note-sticky-sets-amazon.jpg");
+}
+
+
+.img3 {
+  background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2017/10/the-matrix.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5");
+}
+
+
+.img4 {
+  background-image: url("https://images.ctfassets.net/lzny33ho1g45/work-from-home-schedule-p-img/b57e2dcc24b5e07f42d235b6affadd94/file.png?w=300&fm=jpg&q=30&fit=thumb&h=760");
+}
+
+
+.img5 {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/59a706d4f5e2319b70240ef9/1605241884685-QGMMIOCSO48X6KANF7GA/Workplace+Diversity%2C+Equity%2C+and+Inclusion.jpg?format=600w");
+}
+
+
+.img6 {
+  background-image: url("https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=160&dpr=2");
 }
 
 .expbtn {
@@ -163,6 +194,7 @@ max-width: 100%;
   border-style: solid;
   border-width: 2px;
   border-color: black;
+  margin: 3px;
 }
 
 /* CONTACT */
@@ -201,7 +233,7 @@ label {
   max-width: 80%;;
 }
 
-.resumePage h2 {
+.resumePage h1 {
   font-family:'Shadows Into Light', cursive;
   color: white;
 }
@@ -215,13 +247,21 @@ label {
 }
 
 .btn-resume {
+  background-color: rgb(13, 150, 214);
   padding: 10px;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+  color: white;
+
+  /* padding: 10px;
   margin-top: 5px;
   background-color: rgb(13, 150, 214);
   border-style: solid;
   border-width: 2px;
   border-color: white;
-  color: white;
+  color: white; */
 }
 
 /* FOOTER */
