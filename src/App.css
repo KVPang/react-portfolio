@@ -195,6 +195,35 @@ label {
   color: white;
 }
 
+/* RESUME */
+
+#resumeContent {
+  max-width: 80%;;
+}
+
+.resumePage h2 {
+  font-family:'Shadows Into Light', cursive;
+  color: white;
+}
+
+.resumePage p {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.btn-resume {
+  padding: 10px;
+  margin-top: 5px;
+  background-color: rgb(13, 150, 214);
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+  color: white;
+}
+
 /* FOOTER */
 .footer{
   max-width: 100%;
