@@ -6,11 +6,11 @@ const Navbar = () => {
     return ( 
         <div className="container" >
     <ul className="nav justify-content-center">
-  <li className="nav-item">
+  {/* <li className="nav-item">
   <Link className="nav-link" to="/">Home</Link>
-  </li>
+  </li> */}
   <li className="nav-item">
-    <Link className="nav-link" to="/about">About Me</Link>
+    <Link className="nav-link" to="/">About Me</Link>
   </li>
   <li className="nav-item">
     <Link className="nav-link" to="/projects">Projects</Link>

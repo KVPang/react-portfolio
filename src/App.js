@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
-import Header from './components/Header';
+// import Header from './components/Header';
 import Navbar from './components/navbar';
 import About from './components/About';
 import Projects from './components/Projects';
@@ -16,8 +16,8 @@ function App() {
         <div className="App">
             <Navbar/>
             <Routes>
-                <Route path= '/' element={<Header/>}/>
-                <Route path='/about' element={<About/>}/>
+                {/* <Route path= '/' element={<About/>}/> */}
+                <Route path='/' element={<About/>}/>
                 <Route path="/projects" element={<Projects/>}/>
                 <Route path="/contact" element={<Contact/>}/>
                 <Route path="/resume" element={<Resume/>}/>

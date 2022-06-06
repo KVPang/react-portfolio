@@ -93,6 +93,13 @@ body {
 }
 
 /* ABOUT ME */
+
+.capture{ 
+  height: 200px;
+  width: 200px;
+  padding: 5px;
+}
+
 #aboutMe {
 position: relative;
 background: url("https://wallpaperaccess.com/full/221443.jpg") no-repeat;
@@ -106,16 +113,19 @@ max-width: 100%;
 #aboutMe h1 {
   color: white;
   font-family:'Shadows Into Light', cursive;
+  padding: 5px;
 }
 
 #about {
   color: white;
+  max-width: 80%;
 }
 
 #about p {
   display: flex;
   flex-direction: row;
   line-height: 2;
+  font-size: 20px;
 }
 
 /* PROJECTS */
@@ -189,8 +199,11 @@ label {
 .footer{
   max-width: 100%;
   padding: 40px !important;
-  height: auto;
+  height: 10vh;
   font-family: arial;
+  position:sticky;
+  align-items: center;
+
 }
 
 #contact-me {
